@@ -1,0 +1,14 @@
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    line-height: 0;
+}
+
+.colorpicker-preview {
+    height: 15px;
+}
+
+#images img {
+    width: 100px;
+    height: 100px;
+}
